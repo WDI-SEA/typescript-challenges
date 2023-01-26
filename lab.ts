@@ -1,4 +1,3 @@
-console.clear()
 /* TS Algorithms Lab */
 
 /* --- Problem #1 - variable types --- */
